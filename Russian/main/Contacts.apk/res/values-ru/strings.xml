@@ -633,7 +633,7 @@
     <string name="miprofile_request_agree">Принять</string>
     <string name="miprofile_request_clear_alertdialog_title">Предупреждение</string>
     <string name="miprofile_request_clear_alertdialog_message">Очистить историю обмена визитками?</string>
-    <string name="miprofile_request_exchange_title">Запросы визитки</string>
+    <string name="miprofile_request_exchange_title">Найти визитные карточки контактов</string>
     <string name="miprofile_request_agenda_today">%1$s хочет обменяться визитками</string>
     <string name="miprofile_request_agenda_yesterday">%1$s хочет обменяться визитками</string>
     <string name="miprofile_request_agenda_date">%1$s хочет обменяться визитками</string>
@@ -1334,5 +1334,4 @@
     <string name="unknown_caller">Неизвестный контакт</string>
     <string name="yellowpage_navigation_search_hint">Поиск</string>
     <string name="resource_select_ringtone_confirm_picker">Установить выбранную мелодию?</string>
-	<string name="miprofile_request_exchange_title">Найти визитные карточки контактов</string>
 </resources>
