@@ -4112,4 +4112,5 @@
     <string name="cloud_restore_section_summary">Восстановление приложений, рабочего стола и системных настроек</string>
     <string name="cloud_backup_settings_section_title">Настройки резервного копирования</string>
     <string name="sound_vibrate_settings">Звук и вибрация</string>
+    <string name="rom_builder">Сборка билда</string>
 </resources>
