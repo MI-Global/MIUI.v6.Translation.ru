@@ -931,6 +931,7 @@
     <string name="smart_group_frequency_4">Более 6 месяцев</string>
     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
     <string name="contact_detail_calllog_call_note_tips">Заметка вызова</string>
+    <string name="import_from_onekey_migrate">Импорт из старого устройства</string>
     <string name="import_from_other_phone">Импорт из другого телефона</string>
     <string name="device_brand_title">Выберите марку телефона</string>
     <string name="device_version_title">Выберите модель телефона</string>
